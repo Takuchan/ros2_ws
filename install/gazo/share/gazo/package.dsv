@@ -1,0 +1,6 @@
+source;share/gazo/hook/pythonpath.ps1
+source;share/gazo/hook/pythonpath.dsv
+source;share/gazo/hook/pythonpath.sh
+source;share/gazo/hook/ament_prefix_path.ps1
+source;share/gazo/hook/ament_prefix_path.dsv
+source;share/gazo/hook/ament_prefix_path.sh
