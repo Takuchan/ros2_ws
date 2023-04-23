@@ -1,0 +1,26 @@
+[0.721s] Invoking command in '/home/parallels/ros2_ws/src/gazo': PYTHONPATH=/home/parallels/ros2_ws/build/gazo/prefix_override:/home/parallels/ros2_ws/install/gazo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/gazo build --build-base /home/parallels/ros2_ws/build/gazo/build install --record /home/parallels/ros2_ws/build/gazo/install.log --single-version-externally-managed
+[0.988s] running egg_info
+[0.991s] writing ../../build/gazo/gazo.egg-info/PKG-INFO
+[0.991s] writing dependency_links to ../../build/gazo/gazo.egg-info/dependency_links.txt
+[0.991s] writing entry points to ../../build/gazo/gazo.egg-info/entry_points.txt
+[0.991s] writing requirements to ../../build/gazo/gazo.egg-info/requires.txt
+[0.991s] writing top-level names to ../../build/gazo/gazo.egg-info/top_level.txt
+[0.995s] reading manifest file '../../build/gazo/gazo.egg-info/SOURCES.txt'
+[0.997s] writing manifest file '../../build/gazo/gazo.egg-info/SOURCES.txt'
+[0.997s] running build
+[0.997s] running build_py
+[0.997s] copying gazo/nonode2.py -> /home/parallels/ros2_ws/build/gazo/build/lib/gazo
+[0.997s] running install
+[0.998s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.998s]   warnings.warn(
+[0.998s] running install_lib
+[0.999s] copying /home/parallels/ros2_ws/build/gazo/build/lib/gazo/nonode2.py -> /home/parallels/ros2_ws/install/gazo/lib/python3.10/site-packages/gazo
+[0.999s] byte-compiling /home/parallels/ros2_ws/install/gazo/lib/python3.10/site-packages/gazo/nonode2.py to nonode2.cpython-310.pyc
+[1.000s] running install_data
+[1.000s] running install_egg_info
+[1.002s] removing '/home/parallels/ros2_ws/install/gazo/lib/python3.10/site-packages/gazo-0.0.0-py3.10.egg-info' (and everything under it)
+[1.002s] Copying ../../build/gazo/gazo.egg-info to /home/parallels/ros2_ws/install/gazo/lib/python3.10/site-packages/gazo-0.0.0-py3.10.egg-info
+[1.003s] running install_scripts
+[1.026s] Installing nononode script to /home/parallels/ros2_ws/install/gazo/lib/gazo
+[1.027s] writing list of installed files to '/home/parallels/ros2_ws/build/gazo/install.log'
+[1.053s] Invoked command in '/home/parallels/ros2_ws/src/gazo' returned '0': PYTHONPATH=/home/parallels/ros2_ws/build/gazo/prefix_override:/home/parallels/ros2_ws/install/gazo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/gazo build --build-base /home/parallels/ros2_ws/build/gazo/build install --record /home/parallels/ros2_ws/build/gazo/install.log --single-version-externally-managed

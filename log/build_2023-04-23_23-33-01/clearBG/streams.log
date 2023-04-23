@@ -1,0 +1,26 @@
+[0.945s] Invoking command in '/home/parallels/ros2_ws/src/clearBG': PYTHONPATH=/home/parallels/ros2_ws/build/clearBG/prefix_override:/home/parallels/ros2_ws/install/clearBG/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/clearBG build --build-base /home/parallels/ros2_ws/build/clearBG/build install --record /home/parallels/ros2_ws/build/clearBG/install.log --single-version-externally-managed
+[1.220s] running egg_info
+[1.221s] writing ../../build/clearBG/clearBG.egg-info/PKG-INFO
+[1.221s] writing dependency_links to ../../build/clearBG/clearBG.egg-info/dependency_links.txt
+[1.221s] writing entry points to ../../build/clearBG/clearBG.egg-info/entry_points.txt
+[1.222s] writing requirements to ../../build/clearBG/clearBG.egg-info/requires.txt
+[1.222s] writing top-level names to ../../build/clearBG/clearBG.egg-info/top_level.txt
+[1.224s] reading manifest file '../../build/clearBG/clearBG.egg-info/SOURCES.txt'
+[1.226s] writing manifest file '../../build/clearBG/clearBG.egg-info/SOURCES.txt'
+[1.226s] running build
+[1.226s] running build_py
+[1.226s] copying clearBG/main.py -> /home/parallels/ros2_ws/build/clearBG/build/lib/clearBG
+[1.226s] running install
+[1.227s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.227s]   warnings.warn(
+[1.227s] running install_lib
+[1.228s] copying /home/parallels/ros2_ws/build/clearBG/build/lib/clearBG/main.py -> /home/parallels/ros2_ws/install/clearBG/lib/python3.10/site-packages/clearBG
+[1.228s] byte-compiling /home/parallels/ros2_ws/install/clearBG/lib/python3.10/site-packages/clearBG/main.py to main.cpython-310.pyc
+[1.229s] running install_data
+[1.229s] running install_egg_info
+[1.231s] removing '/home/parallels/ros2_ws/install/clearBG/lib/python3.10/site-packages/clearBG-0.0.0-py3.10.egg-info' (and everything under it)
+[1.231s] Copying ../../build/clearBG/clearBG.egg-info to /home/parallels/ros2_ws/install/clearBG/lib/python3.10/site-packages/clearBG-0.0.0-py3.10.egg-info
+[1.232s] running install_scripts
+[1.268s] Installing main script to /home/parallels/ros2_ws/install/clearBG/lib/clearBG
+[1.268s] writing list of installed files to '/home/parallels/ros2_ws/build/clearBG/install.log'
+[1.299s] Invoked command in '/home/parallels/ros2_ws/src/clearBG' returned '0': PYTHONPATH=/home/parallels/ros2_ws/build/clearBG/prefix_override:/home/parallels/ros2_ws/install/clearBG/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/clearBG build --build-base /home/parallels/ros2_ws/build/clearBG/build install --record /home/parallels/ros2_ws/build/clearBG/install.log --single-version-externally-managed

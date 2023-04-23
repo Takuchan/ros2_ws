@@ -9,6 +9,7 @@ setup.py
 ../../build/gazo/gazo.egg-info/top_level.txt
 ../../build/gazo/gazo.egg-info/zip-safe
 gazo/__init__.py
+gazo/nonode2.py
 gazo/nononode.py
 resource/gazo
 test/test_copyright.py

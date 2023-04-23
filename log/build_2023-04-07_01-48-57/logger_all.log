@@ -1,0 +1,127 @@
+[0.378s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'build']
+[0.378s] DEBUG:colcon:Parsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='build', build_base='build', install_base='install', merge_install=False, symlink_install=False, test_result_base=None, continue_on_error=False, executor='parallel', parallel_workers=2, event_handlers=None, ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['.'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=None, packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, allow_overriding=[], cmake_args=None, cmake_target=None, cmake_target_skip_unavailable=False, cmake_clean_cache=False, cmake_clean_first=False, cmake_force_configure=False, ament_cmake_args=None, catkin_cmake_args=None, catkin_skip_building_tests=False, verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0x7fda60fe56c0>, verb_extension=<colcon_core.verb.build.BuildVerb object at 0x7fda617e71c0>, main=<bound method BuildVerb.main of <colcon_core.verb.build.BuildVerb object at 0x7fda617e71c0>>)
+[0.416s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[0.416s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[0.416s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[0.416s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[0.416s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) discover
+[0.416s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[0.416s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/parallels/ros2_ws'
+[0.416s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ignore', 'ignore_ament_install']
+[0.416s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore'
+[0.417s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore_ament_install'
+[0.417s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_pkg']
+[0.417s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_pkg'
+[0.417s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_meta']
+[0.417s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_meta'
+[0.417s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ros']
+[0.417s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ros'
+[0.433s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['cmake', 'python']
+[0.433s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'cmake'
+[0.433s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python'
+[0.434s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['python_setup_py']
+[0.434s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python_setup_py'
+[0.434s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extensions ['ignore', 'ignore_ament_install']
+[0.434s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extension 'ignore'
+[0.434s] Level 1:colcon.colcon_core.package_identification:_identify(build) ignored
+[0.434s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extensions ['ignore', 'ignore_ament_install']
+[0.434s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extension 'ignore'
+[0.434s] Level 1:colcon.colcon_core.package_identification:_identify(install) ignored
+[0.434s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extensions ['ignore', 'ignore_ament_install']
+[0.434s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extension 'ignore'
+[0.435s] Level 1:colcon.colcon_core.package_identification:_identify(log) ignored
+[0.435s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ignore', 'ignore_ament_install']
+[0.435s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore'
+[0.435s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore_ament_install'
+[0.435s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_pkg']
+[0.435s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_pkg'
+[0.435s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_meta']
+[0.435s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_meta'
+[0.435s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ros']
+[0.435s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ros'
+[0.435s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['cmake', 'python']
+[0.435s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'cmake'
+[0.435s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python'
+[0.435s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['python_setup_py']
+[0.435s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python_setup_py'
+[0.435s] Level 1:colcon.colcon_core.package_identification:_identify(src/gazo) by extensions ['ignore', 'ignore_ament_install']
+[0.436s] Level 1:colcon.colcon_core.package_identification:_identify(src/gazo) by extension 'ignore'
+[0.436s] Level 1:colcon.colcon_core.package_identification:_identify(src/gazo) by extension 'ignore_ament_install'
+[0.436s] Level 1:colcon.colcon_core.package_identification:_identify(src/gazo) by extensions ['colcon_pkg']
+[0.436s] Level 1:colcon.colcon_core.package_identification:_identify(src/gazo) by extension 'colcon_pkg'
+[0.436s] Level 1:colcon.colcon_core.package_identification:_identify(src/gazo) by extensions ['colcon_meta']
+[0.436s] Level 1:colcon.colcon_core.package_identification:_identify(src/gazo) by extension 'colcon_meta'
+[0.436s] Level 1:colcon.colcon_core.package_identification:_identify(src/gazo) by extensions ['ros']
+[0.436s] Level 1:colcon.colcon_core.package_identification:_identify(src/gazo) by extension 'ros'
+[0.439s] DEBUG:colcon.colcon_core.package_identification:Package 'src/gazo' with type 'ros.ament_python' and name 'gazo'
+[0.439s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults
+[0.439s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) discover
+[0.439s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) using defaults
+[0.439s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) discover
+[0.439s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) using defaults
+[0.469s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) check parameters
+[0.469s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) discover
+[0.472s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 1 installed packages in /home/parallels/ros2_ws/install
+[0.475s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 270 installed packages in /opt/ros/humble
+[0.478s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) using defaults
+[0.552s] Level 5:colcon.colcon_core.verb:set package 'gazo' build argument 'cmake_args' from command line to 'None'
+[0.553s] Level 5:colcon.colcon_core.verb:set package 'gazo' build argument 'cmake_target' from command line to 'None'
+[0.553s] Level 5:colcon.colcon_core.verb:set package 'gazo' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[0.553s] Level 5:colcon.colcon_core.verb:set package 'gazo' build argument 'cmake_clean_cache' from command line to 'False'
+[0.553s] Level 5:colcon.colcon_core.verb:set package 'gazo' build argument 'cmake_clean_first' from command line to 'False'
+[0.553s] Level 5:colcon.colcon_core.verb:set package 'gazo' build argument 'cmake_force_configure' from command line to 'False'
+[0.553s] Level 5:colcon.colcon_core.verb:set package 'gazo' build argument 'ament_cmake_args' from command line to 'None'
+[0.553s] Level 5:colcon.colcon_core.verb:set package 'gazo' build argument 'catkin_cmake_args' from command line to 'None'
+[0.553s] Level 5:colcon.colcon_core.verb:set package 'gazo' build argument 'catkin_skip_building_tests' from command line to 'False'
+[0.553s] DEBUG:colcon.colcon_core.verb:Building package 'gazo' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/parallels/ros2_ws/build/gazo', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/parallels/ros2_ws/install/gazo', 'merge_install': False, 'path': '/home/parallels/ros2_ws/src/gazo', 'symlink_install': False, 'test_result_base': None}
+[0.554s] INFO:colcon.colcon_core.executor:Executing jobs using 'parallel' executor
+[0.558s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete
+[0.558s] INFO:colcon.colcon_ros.task.ament_python.build:Building ROS package in '/home/parallels/ros2_ws/src/gazo' with build type 'ament_python'
+[0.558s] Level 1:colcon.colcon_core.shell:create_environment_hook('gazo', 'ament_prefix_path')
+[0.563s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_core.shell.bat': Not used on non-Windows systems
+[0.564s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/parallels/ros2_ws/install/gazo/share/gazo/hook/ament_prefix_path.ps1'
+[0.564s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/parallels/ros2_ws/install/gazo/share/gazo/hook/ament_prefix_path.dsv'
+[0.565s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/parallels/ros2_ws/install/gazo/share/gazo/hook/ament_prefix_path.sh'
+[0.567s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.567s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.870s] INFO:colcon.colcon_core.task.python.build:Building Python package in '/home/parallels/ros2_ws/src/gazo'
+[0.872s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.872s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[1.260s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/parallels/ros2_ws/src/gazo': PYTHONPATH=/home/parallels/ros2_ws/build/gazo/prefix_override:/home/parallels/ros2_ws/install/gazo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/gazo build --build-base /home/parallels/ros2_ws/build/gazo/build install --record /home/parallels/ros2_ws/build/gazo/install.log --single-version-externally-managed
+[1.626s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/parallels/ros2_ws/src/gazo' returned '0': PYTHONPATH=/home/parallels/ros2_ws/build/gazo/prefix_override:/home/parallels/ros2_ws/install/gazo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/gazo build --build-base /home/parallels/ros2_ws/build/gazo/build install --record /home/parallels/ros2_ws/build/gazo/install.log --single-version-externally-managed
+[1.632s] Level 1:colcon.colcon_core.environment:checking '/home/parallels/ros2_ws/install/gazo' for CMake module files
+[1.632s] Level 1:colcon.colcon_core.environment:checking '/home/parallels/ros2_ws/install/gazo' for CMake config files
+[1.633s] Level 1:colcon.colcon_core.environment:checking '/home/parallels/ros2_ws/install/gazo/lib'
+[1.633s] Level 1:colcon.colcon_core.environment:checking '/home/parallels/ros2_ws/install/gazo/bin'
+[1.633s] Level 1:colcon.colcon_core.environment:checking '/home/parallels/ros2_ws/install/gazo/lib/pkgconfig/gazo.pc'
+[1.634s] Level 1:colcon.colcon_core.environment:checking '/home/parallels/ros2_ws/install/gazo/lib/python3.10/site-packages'
+[1.634s] Level 1:colcon.colcon_core.shell:create_environment_hook('gazo', 'pythonpath')
+[1.635s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/parallels/ros2_ws/install/gazo/share/gazo/hook/pythonpath.ps1'
+[1.636s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/parallels/ros2_ws/install/gazo/share/gazo/hook/pythonpath.dsv'
+[1.636s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/parallels/ros2_ws/install/gazo/share/gazo/hook/pythonpath.sh'
+[1.637s] Level 1:colcon.colcon_core.environment:checking '/home/parallels/ros2_ws/install/gazo/bin'
+[1.637s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(gazo)
+[1.639s] INFO:colcon.colcon_core.shell:Creating package script '/home/parallels/ros2_ws/install/gazo/share/gazo/package.ps1'
+[1.640s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/parallels/ros2_ws/install/gazo/share/gazo/package.dsv'
+[1.641s] INFO:colcon.colcon_core.shell:Creating package script '/home/parallels/ros2_ws/install/gazo/share/gazo/package.sh'
+[1.642s] INFO:colcon.colcon_core.shell:Creating package script '/home/parallels/ros2_ws/install/gazo/share/gazo/package.bash'
+[1.643s] INFO:colcon.colcon_core.shell:Creating package script '/home/parallels/ros2_ws/install/gazo/share/gazo/package.zsh'
+[1.644s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/parallels/ros2_ws/install/gazo/share/colcon-core/packages/gazo)
+[1.647s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:closing loop
+[1.647s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:loop closed
+[1.647s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete finished with '0'
+[1.647s] DEBUG:colcon.colcon_core.event_reactor:joining thread
+[1.655s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.terminal_notifier': Not used on non-Darwin systems
+[1.655s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.win32': Not used on non-Windows systems
+[1.655s] INFO:colcon.colcon_notification.desktop_notification:Sending desktop notification using 'notify2'
+[1.675s] DEBUG:colcon.colcon_core.event_reactor:joined thread
+[1.677s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/parallels/ros2_ws/install/local_setup.ps1'
+[1.678s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/parallels/ros2_ws/install/_local_setup_util_ps1.py'
+[1.680s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/parallels/ros2_ws/install/setup.ps1'
+[1.682s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/parallels/ros2_ws/install/local_setup.sh'
+[1.683s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/parallels/ros2_ws/install/_local_setup_util_sh.py'
+[1.684s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/parallels/ros2_ws/install/setup.sh'
+[1.686s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/parallels/ros2_ws/install/local_setup.bash'
+[1.687s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/parallels/ros2_ws/install/setup.bash'
+[1.690s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/parallels/ros2_ws/install/local_setup.zsh'
+[1.691s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/parallels/ros2_ws/install/setup.zsh'

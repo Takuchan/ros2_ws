@@ -20,7 +20,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'nononode = gazo.nononode:main'
+            'nononode = gazo.nononode:main',
+            'nonode2 = gazo.nonode2:main'
         ],
     },
 )

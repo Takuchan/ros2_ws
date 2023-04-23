@@ -1,0 +1,33 @@
+running egg_info
+creating ../../build/clearBG/clearBG.egg-info
+writing ../../build/clearBG/clearBG.egg-info/PKG-INFO
+writing dependency_links to ../../build/clearBG/clearBG.egg-info/dependency_links.txt
+writing entry points to ../../build/clearBG/clearBG.egg-info/entry_points.txt
+writing requirements to ../../build/clearBG/clearBG.egg-info/requires.txt
+writing top-level names to ../../build/clearBG/clearBG.egg-info/top_level.txt
+writing manifest file '../../build/clearBG/clearBG.egg-info/SOURCES.txt'
+reading manifest file '../../build/clearBG/clearBG.egg-info/SOURCES.txt'
+writing manifest file '../../build/clearBG/clearBG.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/parallels/ros2_ws/build/clearBG/build
+creating /home/parallels/ros2_ws/build/clearBG/build/lib
+creating /home/parallels/ros2_ws/build/clearBG/build/lib/clearBG
+copying clearBG/__init__.py -> /home/parallels/ros2_ws/build/clearBG/build/lib/clearBG
+running install
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running install_lib
+creating /home/parallels/ros2_ws/install/clearBG/lib/python3.10/site-packages/clearBG
+copying /home/parallels/ros2_ws/build/clearBG/build/lib/clearBG/__init__.py -> /home/parallels/ros2_ws/install/clearBG/lib/python3.10/site-packages/clearBG
+byte-compiling /home/parallels/ros2_ws/install/clearBG/lib/python3.10/site-packages/clearBG/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/parallels/ros2_ws/install/clearBG/share/ament_index
+creating /home/parallels/ros2_ws/install/clearBG/share/ament_index/resource_index
+creating /home/parallels/ros2_ws/install/clearBG/share/ament_index/resource_index/packages
+copying resource/clearBG -> /home/parallels/ros2_ws/install/clearBG/share/ament_index/resource_index/packages
+copying package.xml -> /home/parallels/ros2_ws/install/clearBG/share/clearBG
+running install_egg_info
+Copying ../../build/clearBG/clearBG.egg-info to /home/parallels/ros2_ws/install/clearBG/lib/python3.10/site-packages/clearBG-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/parallels/ros2_ws/build/clearBG/install.log'

@@ -1,3 +1,4 @@
 [console_scripts]
+nonode2 = gazo.nonode2:main
 nononode = gazo.nononode:main
 

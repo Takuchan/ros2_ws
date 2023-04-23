@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/gazo/gazo.egg-info/PKG-INFO
+writing dependency_links to ../../build/gazo/gazo.egg-info/dependency_links.txt
+writing entry points to ../../build/gazo/gazo.egg-info/entry_points.txt
+writing requirements to ../../build/gazo/gazo.egg-info/requires.txt
+writing top-level names to ../../build/gazo/gazo.egg-info/top_level.txt
+reading manifest file '../../build/gazo/gazo.egg-info/SOURCES.txt'
+writing manifest file '../../build/gazo/gazo.egg-info/SOURCES.txt'
+running build
+running build_py
+copying gazo/nononode.py -> /home/parallels/ros2_ws/build/gazo/build/lib/gazo
+running install
+running install_lib
+copying /home/parallels/ros2_ws/build/gazo/build/lib/gazo/nononode.py -> /home/parallels/ros2_ws/install/gazo/lib/python3.10/site-packages/gazo
+byte-compiling /home/parallels/ros2_ws/install/gazo/lib/python3.10/site-packages/gazo/nononode.py to nononode.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/parallels/ros2_ws/install/gazo/lib/python3.10/site-packages/gazo-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/gazo/gazo.egg-info to /home/parallels/ros2_ws/install/gazo/lib/python3.10/site-packages/gazo-0.0.0-py3.10.egg-info
+running install_scripts
+Installing nonode2 script to /home/parallels/ros2_ws/install/gazo/lib/gazo
+Installing nononode script to /home/parallels/ros2_ws/install/gazo/lib/gazo
+writing list of installed files to '/home/parallels/ros2_ws/build/gazo/install.log'
