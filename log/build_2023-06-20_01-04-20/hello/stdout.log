@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/hello/hello.egg-info/PKG-INFO
+writing dependency_links to ../../build/hello/hello.egg-info/dependency_links.txt
+writing entry points to ../../build/hello/hello.egg-info/entry_points.txt
+writing requirements to ../../build/hello/hello.egg-info/requires.txt
+writing top-level names to ../../build/hello/hello.egg-info/top_level.txt
+reading manifest file '../../build/hello/hello.egg-info/SOURCES.txt'
+writing manifest file '../../build/hello/hello.egg-info/SOURCES.txt'
+running build
+running build_py
+copying hello/hello_node2.py -> /home/parallels/ros2_ws/build/hello/build/lib/hello
+running install
+running install_lib
+copying /home/parallels/ros2_ws/build/hello/build/lib/hello/hello_node2.py -> /home/parallels/ros2_ws/install/hello/lib/python3.10/site-packages/hello
+byte-compiling /home/parallels/ros2_ws/install/hello/lib/python3.10/site-packages/hello/hello_node2.py to hello_node2.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/parallels/ros2_ws/install/hello/lib/python3.10/site-packages/hello-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/hello/hello.egg-info to /home/parallels/ros2_ws/install/hello/lib/python3.10/site-packages/hello-0.0.0-py3.10.egg-info
+running install_scripts
+Installing hello_node script to /home/parallels/ros2_ws/install/hello/lib/hello
+writing list of installed files to '/home/parallels/ros2_ws/build/hello/install.log'

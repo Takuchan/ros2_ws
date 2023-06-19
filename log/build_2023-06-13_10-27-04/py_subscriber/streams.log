@@ -1,0 +1,38 @@
+[1.091s] Invoking command in '/home/parallels/ros2_ws/build/py_subscriber': PYTHONPATH=/home/parallels/ros2_ws/build/py_subscriber/prefix_override:/home/parallels/ros2_ws/install/py_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/parallels/ros2_ws/build/py_subscriber/build
+[1.406s] running develop
+[1.406s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.406s]   warnings.warn(
+[1.408s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.408s]   warnings.warn(
+[1.482s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[1.482s]   warnings.warn(
+[1.482s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[1.482s]   warnings.warn(
+[1.482s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[1.482s]   warnings.warn(
+[1.612s] Removing /home/parallels/ros2_ws/install/py_subscriber/lib/python3.10/site-packages/py-subscriber.egg-link (link to .)
+[1.640s] Invoked command in '/home/parallels/ros2_ws/build/py_subscriber' returned '0': PYTHONPATH=/home/parallels/ros2_ws/build/py_subscriber/prefix_override:/home/parallels/ros2_ws/install/py_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/parallels/ros2_ws/build/py_subscriber/build
+[1.641s] Invoking command in '/home/parallels/ros2_ws/src/py_subscriber': PYTHONPATH=/home/parallels/ros2_ws/build/py_subscriber/prefix_override:/home/parallels/ros2_ws/install/py_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_subscriber build --build-base /home/parallels/ros2_ws/build/py_subscriber/build install --record /home/parallels/ros2_ws/build/py_subscriber/install.log --single-version-externally-managed
+[1.937s] running egg_info
+[1.937s] writing ../../build/py_subscriber/py_subscriber.egg-info/PKG-INFO
+[1.938s] writing dependency_links to ../../build/py_subscriber/py_subscriber.egg-info/dependency_links.txt
+[1.938s] writing entry points to ../../build/py_subscriber/py_subscriber.egg-info/entry_points.txt
+[1.938s] writing requirements to ../../build/py_subscriber/py_subscriber.egg-info/requires.txt
+[1.939s] writing top-level names to ../../build/py_subscriber/py_subscriber.egg-info/top_level.txt
+[1.942s] reading manifest file '../../build/py_subscriber/py_subscriber.egg-info/SOURCES.txt'
+[1.943s] writing manifest file '../../build/py_subscriber/py_subscriber.egg-info/SOURCES.txt'
+[1.943s] running build
+[1.943s] running build_py
+[1.945s] running install
+[1.945s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.945s]   warnings.warn(
+[1.946s] running install_lib
+[1.946s] creating /home/parallels/ros2_ws/install/py_subscriber/lib/python3.10/site-packages/py_subscriber
+[1.947s] copying /home/parallels/ros2_ws/build/py_subscriber/build/lib/py_subscriber/__init__.py -> /home/parallels/ros2_ws/install/py_subscriber/lib/python3.10/site-packages/py_subscriber
+[1.947s] byte-compiling /home/parallels/ros2_ws/install/py_subscriber/lib/python3.10/site-packages/py_subscriber/__init__.py to __init__.cpython-310.pyc
+[1.947s] running install_data
+[1.948s] running install_egg_info
+[1.951s] Copying ../../build/py_subscriber/py_subscriber.egg-info to /home/parallels/ros2_ws/install/py_subscriber/lib/python3.10/site-packages/py_subscriber-0.0.0-py3.10.egg-info
+[1.952s] running install_scripts
+[1.973s] writing list of installed files to '/home/parallels/ros2_ws/build/py_subscriber/install.log'
+[2.001s] Invoked command in '/home/parallels/ros2_ws/src/py_subscriber' returned '0': PYTHONPATH=/home/parallels/ros2_ws/build/py_subscriber/prefix_override:/home/parallels/ros2_ws/install/py_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_subscriber build --build-base /home/parallels/ros2_ws/build/py_subscriber/build install --record /home/parallels/ros2_ws/build/py_subscriber/install.log --single-version-externally-managed

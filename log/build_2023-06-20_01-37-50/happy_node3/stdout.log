@@ -1,0 +1,19 @@
+running egg_info
+writing ../../build/happy_node3/happy_node3.egg-info/PKG-INFO
+writing dependency_links to ../../build/happy_node3/happy_node3.egg-info/dependency_links.txt
+writing entry points to ../../build/happy_node3/happy_node3.egg-info/entry_points.txt
+writing requirements to ../../build/happy_node3/happy_node3.egg-info/requires.txt
+writing top-level names to ../../build/happy_node3/happy_node3.egg-info/top_level.txt
+reading manifest file '../../build/happy_node3/happy_node3.egg-info/SOURCES.txt'
+writing manifest file '../../build/happy_node3/happy_node3.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/parallels/ros2_ws/install/happy_node3/lib/python3.10/site-packages/happy_node3-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/happy_node3/happy_node3.egg-info to /home/parallels/ros2_ws/install/happy_node3/lib/python3.10/site-packages/happy_node3-0.0.0-py3.10.egg-info
+running install_scripts
+Installing happy_publisher_node script to /home/parallels/ros2_ws/install/happy_node3/lib/happy_node3
+writing list of installed files to '/home/parallels/ros2_ws/build/happy_node3/install.log'

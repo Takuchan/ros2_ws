@@ -1,0 +1,26 @@
+[1.542s] Invoking command in '/home/parallels/ros2_ws/src/hello': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/parallels/ros2_ws/build/hello/prefix_override:/home/parallels/ros2_ws/install/hello/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/hello build --build-base /home/parallels/ros2_ws/build/hello/build install --record /home/parallels/ros2_ws/build/hello/install.log --single-version-externally-managed
+[1.965s] running egg_info
+[1.967s] writing ../../build/hello/hello.egg-info/PKG-INFO
+[1.969s] writing dependency_links to ../../build/hello/hello.egg-info/dependency_links.txt
+[1.970s] writing entry points to ../../build/hello/hello.egg-info/entry_points.txt
+[1.970s] writing requirements to ../../build/hello/hello.egg-info/requires.txt
+[1.970s] writing top-level names to ../../build/hello/hello.egg-info/top_level.txt
+[1.979s] reading manifest file '../../build/hello/hello.egg-info/SOURCES.txt'
+[1.980s] writing manifest file '../../build/hello/hello.egg-info/SOURCES.txt'
+[1.981s] running build
+[1.981s] running build_py
+[1.982s] copying hello/hello_node.py -> /home/parallels/ros2_ws/build/hello/build/lib/hello
+[1.982s] running install
+[1.983s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.983s]   warnings.warn(
+[1.984s] running install_lib
+[1.985s] copying /home/parallels/ros2_ws/build/hello/build/lib/hello/hello_node.py -> /home/parallels/ros2_ws/install/hello/lib/python3.10/site-packages/hello
+[1.987s] byte-compiling /home/parallels/ros2_ws/install/hello/lib/python3.10/site-packages/hello/hello_node.py to hello_node.cpython-310.pyc
+[1.988s] running install_data
+[1.989s] running install_egg_info
+[1.991s] removing '/home/parallels/ros2_ws/install/hello/lib/python3.10/site-packages/hello-0.0.0-py3.10.egg-info' (and everything under it)
+[2.001s] Copying ../../build/hello/hello.egg-info to /home/parallels/ros2_ws/install/hello/lib/python3.10/site-packages/hello-0.0.0-py3.10.egg-info
+[2.009s] running install_scripts
+[2.033s] Installing hello_node script to /home/parallels/ros2_ws/install/hello/lib/hello
+[2.034s] writing list of installed files to '/home/parallels/ros2_ws/build/hello/install.log'
+[2.058s] Invoked command in '/home/parallels/ros2_ws/src/hello' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/parallels/ros2_ws/build/hello/prefix_override:/home/parallels/ros2_ws/install/hello/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/hello build --build-base /home/parallels/ros2_ws/build/hello/build install --record /home/parallels/ros2_ws/build/hello/install.log --single-version-externally-managed

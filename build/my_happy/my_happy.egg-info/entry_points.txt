@@ -1,0 +1,3 @@
+[console_scripts]
+my_happy_node = my_happy.my_happy_node:main
+

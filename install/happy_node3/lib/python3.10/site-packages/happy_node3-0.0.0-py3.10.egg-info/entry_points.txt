@@ -1,0 +1,3 @@
+[console_scripts]
+happy_publisher_node = happy_node3.happy_publisher_node:main
+

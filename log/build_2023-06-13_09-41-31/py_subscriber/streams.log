@@ -1,0 +1,35 @@
+[1.078s] Invoking command in '/home/parallels/ros2_ws/src/py_subscriber': PYTHONPATH=/home/parallels/ros2_ws/build/py_subscriber/prefix_override:/home/parallels/ros2_ws/install/py_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_subscriber build --build-base /home/parallels/ros2_ws/build/py_subscriber/build install --record /home/parallels/ros2_ws/build/py_subscriber/install.log --single-version-externally-managed
+[1.373s] running egg_info
+[1.374s] creating ../../build/py_subscriber/py_subscriber.egg-info
+[1.374s] writing ../../build/py_subscriber/py_subscriber.egg-info/PKG-INFO
+[1.374s] writing dependency_links to ../../build/py_subscriber/py_subscriber.egg-info/dependency_links.txt
+[1.375s] writing entry points to ../../build/py_subscriber/py_subscriber.egg-info/entry_points.txt
+[1.375s] writing requirements to ../../build/py_subscriber/py_subscriber.egg-info/requires.txt
+[1.376s] writing top-level names to ../../build/py_subscriber/py_subscriber.egg-info/top_level.txt
+[1.376s] writing manifest file '../../build/py_subscriber/py_subscriber.egg-info/SOURCES.txt'
+[1.384s] reading manifest file '../../build/py_subscriber/py_subscriber.egg-info/SOURCES.txt'
+[1.385s] writing manifest file '../../build/py_subscriber/py_subscriber.egg-info/SOURCES.txt'
+[1.385s] running build
+[1.385s] running build_py
+[1.386s] creating /home/parallels/ros2_ws/build/py_subscriber/build
+[1.386s] creating /home/parallels/ros2_ws/build/py_subscriber/build/lib
+[1.386s] creating /home/parallels/ros2_ws/build/py_subscriber/build/lib/py_subscriber
+[1.386s] copying py_subscriber/__init__.py -> /home/parallels/ros2_ws/build/py_subscriber/build/lib/py_subscriber
+[1.387s] running install
+[1.388s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.388s]   warnings.warn(
+[1.388s] running install_lib
+[1.389s] creating /home/parallels/ros2_ws/install/py_subscriber/lib/python3.10/site-packages/py_subscriber
+[1.389s] copying /home/parallels/ros2_ws/build/py_subscriber/build/lib/py_subscriber/__init__.py -> /home/parallels/ros2_ws/install/py_subscriber/lib/python3.10/site-packages/py_subscriber
+[1.390s] byte-compiling /home/parallels/ros2_ws/install/py_subscriber/lib/python3.10/site-packages/py_subscriber/__init__.py to __init__.cpython-310.pyc
+[1.390s] running install_data
+[1.391s] creating /home/parallels/ros2_ws/install/py_subscriber/share/ament_index
+[1.391s] creating /home/parallels/ros2_ws/install/py_subscriber/share/ament_index/resource_index
+[1.392s] creating /home/parallels/ros2_ws/install/py_subscriber/share/ament_index/resource_index/packages
+[1.392s] copying resource/py_subscriber -> /home/parallels/ros2_ws/install/py_subscriber/share/ament_index/resource_index/packages
+[1.392s] copying package.xml -> /home/parallels/ros2_ws/install/py_subscriber/share/py_subscriber
+[1.392s] running install_egg_info
+[1.394s] Copying ../../build/py_subscriber/py_subscriber.egg-info to /home/parallels/ros2_ws/install/py_subscriber/lib/python3.10/site-packages/py_subscriber-0.0.0-py3.10.egg-info
+[1.395s] running install_scripts
+[1.425s] writing list of installed files to '/home/parallels/ros2_ws/build/py_subscriber/install.log'
+[1.456s] Invoked command in '/home/parallels/ros2_ws/src/py_subscriber' returned '0': PYTHONPATH=/home/parallels/ros2_ws/build/py_subscriber/prefix_override:/home/parallels/ros2_ws/install/py_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_subscriber build --build-base /home/parallels/ros2_ws/build/py_subscriber/build install --record /home/parallels/ros2_ws/build/py_subscriber/install.log --single-version-externally-managed

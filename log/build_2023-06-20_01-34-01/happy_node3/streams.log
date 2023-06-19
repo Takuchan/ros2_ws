@@ -1,0 +1,26 @@
+[1.239s] Invoking command in '/home/parallels/ros2_ws/src/happy_node3': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/parallels/ros2_ws/build/happy_node3/prefix_override:/home/parallels/ros2_ws/install/happy_node3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/happy_node3 build --build-base /home/parallels/ros2_ws/build/happy_node3/build install --record /home/parallels/ros2_ws/build/happy_node3/install.log --single-version-externally-managed
+[1.642s] running egg_info
+[1.643s] writing ../../build/happy_node3/happy_node3.egg-info/PKG-INFO
+[1.644s] writing dependency_links to ../../build/happy_node3/happy_node3.egg-info/dependency_links.txt
+[1.644s] writing entry points to ../../build/happy_node3/happy_node3.egg-info/entry_points.txt
+[1.645s] writing requirements to ../../build/happy_node3/happy_node3.egg-info/requires.txt
+[1.645s] writing top-level names to ../../build/happy_node3/happy_node3.egg-info/top_level.txt
+[1.648s] reading manifest file '../../build/happy_node3/happy_node3.egg-info/SOURCES.txt'
+[1.649s] writing manifest file '../../build/happy_node3/happy_node3.egg-info/SOURCES.txt'
+[1.650s] running build
+[1.650s] running build_py
+[1.650s] copying happy_node3/happy_publisher_node.py -> /home/parallels/ros2_ws/build/happy_node3/build/lib/happy_node3
+[1.651s] running install
+[1.652s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.652s]   warnings.warn(
+[1.653s] running install_lib
+[1.654s] copying /home/parallels/ros2_ws/build/happy_node3/build/lib/happy_node3/happy_publisher_node.py -> /home/parallels/ros2_ws/install/happy_node3/lib/python3.10/site-packages/happy_node3
+[1.655s] byte-compiling /home/parallels/ros2_ws/install/happy_node3/lib/python3.10/site-packages/happy_node3/happy_publisher_node.py to happy_publisher_node.cpython-310.pyc
+[1.656s] running install_data
+[1.657s] running install_egg_info
+[1.659s] removing '/home/parallels/ros2_ws/install/happy_node3/lib/python3.10/site-packages/happy_node3-0.0.0-py3.10.egg-info' (and everything under it)
+[1.660s] Copying ../../build/happy_node3/happy_node3.egg-info to /home/parallels/ros2_ws/install/happy_node3/lib/python3.10/site-packages/happy_node3-0.0.0-py3.10.egg-info
+[1.661s] running install_scripts
+[1.693s] Installing happy_publisher_node script to /home/parallels/ros2_ws/install/happy_node3/lib/happy_node3
+[1.693s] writing list of installed files to '/home/parallels/ros2_ws/build/happy_node3/install.log'
+[1.738s] Invoked command in '/home/parallels/ros2_ws/src/happy_node3' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/parallels/ros2_ws/build/happy_node3/prefix_override:/home/parallels/ros2_ws/install/happy_node3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/happy_node3 build --build-base /home/parallels/ros2_ws/build/happy_node3/build install --record /home/parallels/ros2_ws/build/happy_node3/install.log --single-version-externally-managed

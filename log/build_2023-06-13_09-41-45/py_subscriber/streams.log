@@ -1,0 +1,26 @@
+[0.976s] Invoking command in '/home/parallels/ros2_ws/build/py_subscriber': PYTHONPATH=/home/parallels/ros2_ws/build/py_subscriber/prefix_override:/home/parallels/ros2_ws/install/py_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/parallels/ros2_ws/build/py_subscriber/build --no-deps install_data
+[1.277s] running develop
+[1.280s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.280s]   warnings.warn(
+[1.282s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.282s]   warnings.warn(
+[1.351s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[1.351s]   warnings.warn(
+[1.351s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[1.351s]   warnings.warn(
+[1.352s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[1.352s]   warnings.warn(
+[1.481s] running egg_info
+[1.481s] writing py_subscriber.egg-info/PKG-INFO
+[1.481s] writing dependency_links to py_subscriber.egg-info/dependency_links.txt
+[1.482s] writing entry points to py_subscriber.egg-info/entry_points.txt
+[1.482s] writing requirements to py_subscriber.egg-info/requires.txt
+[1.482s] writing top-level names to py_subscriber.egg-info/top_level.txt
+[1.485s] reading manifest file 'py_subscriber.egg-info/SOURCES.txt'
+[1.487s] writing manifest file 'py_subscriber.egg-info/SOURCES.txt'
+[1.489s] running build_ext
+[1.489s] Creating /home/parallels/ros2_ws/install/py_subscriber/lib/python3.10/site-packages/py-subscriber.egg-link (link to .)
+[1.490s] 
+[1.490s] Installed /home/parallels/ros2_ws/build/py_subscriber
+[1.490s] running install_data
+[1.554s] Invoked command in '/home/parallels/ros2_ws/build/py_subscriber' returned '0': PYTHONPATH=/home/parallels/ros2_ws/build/py_subscriber/prefix_override:/home/parallels/ros2_ws/install/py_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/parallels/ros2_ws/build/py_subscriber/build --no-deps install_data

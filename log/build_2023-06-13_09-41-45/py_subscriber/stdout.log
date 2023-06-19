@@ -1,0 +1,14 @@
+running develop
+running egg_info
+writing py_subscriber.egg-info/PKG-INFO
+writing dependency_links to py_subscriber.egg-info/dependency_links.txt
+writing entry points to py_subscriber.egg-info/entry_points.txt
+writing requirements to py_subscriber.egg-info/requires.txt
+writing top-level names to py_subscriber.egg-info/top_level.txt
+reading manifest file 'py_subscriber.egg-info/SOURCES.txt'
+writing manifest file 'py_subscriber.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/parallels/ros2_ws/install/py_subscriber/lib/python3.10/site-packages/py-subscriber.egg-link (link to .)
+
+Installed /home/parallels/ros2_ws/build/py_subscriber
+running install_data

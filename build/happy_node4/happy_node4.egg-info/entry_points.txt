@@ -1,0 +1,3 @@
+[console_scripts]
+happy_subscriber = happy_node4.happy_subscriber:main
+

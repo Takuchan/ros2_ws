@@ -1,0 +1,35 @@
+[1.236s] Invoking command in '/home/parallels/ros2_ws/build/py_publisher': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/parallels/ros2_ws/build/py_publisher/prefix_override:/home/parallels/ros2_ws/install/py_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/parallels/ros2_ws/build/py_publisher/build
+[1.584s] running develop
+[1.587s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.587s]   warnings.warn(
+[1.589s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.589s]   warnings.warn(
+[1.676s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[1.676s]   warnings.warn(
+[1.677s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[1.677s]   warnings.warn(
+[1.677s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[1.677s]   warnings.warn(
+[2.111s] Invoked command in '/home/parallels/ros2_ws/build/py_publisher' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/parallels/ros2_ws/build/py_publisher/prefix_override:/home/parallels/ros2_ws/install/py_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/parallels/ros2_ws/build/py_publisher/build
+[2.111s] Invoking command in '/home/parallels/ros2_ws/src/py_publisher': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/parallels/ros2_ws/build/py_publisher/prefix_override:/home/parallels/ros2_ws/install/py_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_publisher build --build-base /home/parallels/ros2_ws/build/py_publisher/build install --record /home/parallels/ros2_ws/build/py_publisher/install.log --single-version-externally-managed
+[2.425s] running egg_info
+[2.425s] writing ../../build/py_publisher/py_publisher.egg-info/PKG-INFO
+[2.426s] writing dependency_links to ../../build/py_publisher/py_publisher.egg-info/dependency_links.txt
+[2.427s] writing entry points to ../../build/py_publisher/py_publisher.egg-info/entry_points.txt
+[2.427s] writing requirements to ../../build/py_publisher/py_publisher.egg-info/requires.txt
+[2.427s] writing top-level names to ../../build/py_publisher/py_publisher.egg-info/top_level.txt
+[2.430s] reading manifest file '../../build/py_publisher/py_publisher.egg-info/SOURCES.txt'
+[2.432s] writing manifest file '../../build/py_publisher/py_publisher.egg-info/SOURCES.txt'
+[2.432s] running build
+[2.433s] running build_py
+[2.434s] running install
+[2.434s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.434s]   warnings.warn(
+[2.434s] running install_lib
+[2.437s] running install_data
+[2.437s] running install_egg_info
+[2.439s] removing '/home/parallels/ros2_ws/install/py_publisher/lib/python3.10/site-packages/py_publisher-0.0.0-py3.10.egg-info' (and everything under it)
+[2.439s] Copying ../../build/py_publisher/py_publisher.egg-info to /home/parallels/ros2_ws/install/py_publisher/lib/python3.10/site-packages/py_publisher-0.0.0-py3.10.egg-info
+[2.441s] running install_scripts
+[2.468s] writing list of installed files to '/home/parallels/ros2_ws/build/py_publisher/install.log'
+[2.495s] Invoked command in '/home/parallels/ros2_ws/src/py_publisher' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/parallels/ros2_ws/build/py_publisher/prefix_override:/home/parallels/ros2_ws/install/py_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_publisher build --build-base /home/parallels/ros2_ws/build/py_publisher/build install --record /home/parallels/ros2_ws/build/py_publisher/install.log --single-version-externally-managed

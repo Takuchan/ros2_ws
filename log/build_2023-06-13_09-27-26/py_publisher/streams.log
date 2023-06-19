@@ -1,0 +1,35 @@
+[0.741s] Invoking command in '/home/parallels/ros2_ws/src/py_publisher': PYTHONPATH=/home/parallels/ros2_ws/build/py_publisher/prefix_override:/home/parallels/ros2_ws/install/py_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_publisher build --build-base /home/parallels/ros2_ws/build/py_publisher/build install --record /home/parallels/ros2_ws/build/py_publisher/install.log --single-version-externally-managed
+[1.026s] running egg_info
+[1.026s] creating ../../build/py_publisher/py_publisher.egg-info
+[1.026s] writing ../../build/py_publisher/py_publisher.egg-info/PKG-INFO
+[1.026s] writing dependency_links to ../../build/py_publisher/py_publisher.egg-info/dependency_links.txt
+[1.027s] writing entry points to ../../build/py_publisher/py_publisher.egg-info/entry_points.txt
+[1.027s] writing requirements to ../../build/py_publisher/py_publisher.egg-info/requires.txt
+[1.027s] writing top-level names to ../../build/py_publisher/py_publisher.egg-info/top_level.txt
+[1.027s] writing manifest file '../../build/py_publisher/py_publisher.egg-info/SOURCES.txt'
+[1.028s] reading manifest file '../../build/py_publisher/py_publisher.egg-info/SOURCES.txt'
+[1.029s] writing manifest file '../../build/py_publisher/py_publisher.egg-info/SOURCES.txt'
+[1.029s] running build
+[1.029s] running build_py
+[1.030s] creating /home/parallels/ros2_ws/build/py_publisher/build
+[1.030s] creating /home/parallels/ros2_ws/build/py_publisher/build/lib
+[1.030s] creating /home/parallels/ros2_ws/build/py_publisher/build/lib/py_publisher
+[1.030s] copying py_publisher/__init__.py -> /home/parallels/ros2_ws/build/py_publisher/build/lib/py_publisher
+[1.030s] running install
+[1.032s] running install_lib
+[1.032s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.033s]   warnings.warn(
+[1.033s] creating /home/parallels/ros2_ws/install/py_publisher/lib/python3.10/site-packages/py_publisher
+[1.033s] copying /home/parallels/ros2_ws/build/py_publisher/build/lib/py_publisher/__init__.py -> /home/parallels/ros2_ws/install/py_publisher/lib/python3.10/site-packages/py_publisher
+[1.033s] byte-compiling /home/parallels/ros2_ws/install/py_publisher/lib/python3.10/site-packages/py_publisher/__init__.py to __init__.cpython-310.pyc
+[1.033s] running install_data
+[1.034s] creating /home/parallels/ros2_ws/install/py_publisher/share/ament_index
+[1.034s] creating /home/parallels/ros2_ws/install/py_publisher/share/ament_index/resource_index
+[1.034s] creating /home/parallels/ros2_ws/install/py_publisher/share/ament_index/resource_index/packages
+[1.034s] copying resource/py_publisher -> /home/parallels/ros2_ws/install/py_publisher/share/ament_index/resource_index/packages
+[1.034s] copying package.xml -> /home/parallels/ros2_ws/install/py_publisher/share/py_publisher
+[1.034s] running install_egg_info
+[1.036s] Copying ../../build/py_publisher/py_publisher.egg-info to /home/parallels/ros2_ws/install/py_publisher/lib/python3.10/site-packages/py_publisher-0.0.0-py3.10.egg-info
+[1.036s] running install_scripts
+[1.056s] writing list of installed files to '/home/parallels/ros2_ws/build/py_publisher/install.log'
+[1.080s] Invoked command in '/home/parallels/ros2_ws/src/py_publisher' returned '0': PYTHONPATH=/home/parallels/ros2_ws/build/py_publisher/prefix_override:/home/parallels/ros2_ws/install/py_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_publisher build --build-base /home/parallels/ros2_ws/build/py_publisher/build install --record /home/parallels/ros2_ws/build/py_publisher/install.log --single-version-externally-managed

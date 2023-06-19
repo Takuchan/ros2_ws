@@ -1,0 +1,24 @@
+running egg_info
+writing ../../build/happy_node4/happy_node4.egg-info/PKG-INFO
+writing dependency_links to ../../build/happy_node4/happy_node4.egg-info/dependency_links.txt
+writing entry points to ../../build/happy_node4/happy_node4.egg-info/entry_points.txt
+writing requirements to ../../build/happy_node4/happy_node4.egg-info/requires.txt
+writing top-level names to ../../build/happy_node4/happy_node4.egg-info/top_level.txt
+reading manifest file '../../build/happy_node4/happy_node4.egg-info/SOURCES.txt'
+writing manifest file '../../build/happy_node4/happy_node4.egg-info/SOURCES.txt'
+running build
+running build_py
+copying happy_node4/happy_subscriber.py -> /home/parallels/ros2_ws/build/happy_node4/build/lib/happy_node4
+running install
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running install_lib
+copying /home/parallels/ros2_ws/build/happy_node4/build/lib/happy_node4/happy_subscriber.py -> /home/parallels/ros2_ws/install/happy_node4/lib/python3.10/site-packages/happy_node4
+byte-compiling /home/parallels/ros2_ws/install/happy_node4/lib/python3.10/site-packages/happy_node4/happy_subscriber.py to happy_subscriber.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/parallels/ros2_ws/install/happy_node4/lib/python3.10/site-packages/happy_node4-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/happy_node4/happy_node4.egg-info to /home/parallels/ros2_ws/install/happy_node4/lib/python3.10/site-packages/happy_node4-0.0.0-py3.10.egg-info
+running install_scripts
+Installing happy_subscriber script to /home/parallels/ros2_ws/install/happy_node4/lib/happy_node4
+writing list of installed files to '/home/parallels/ros2_ws/build/happy_node4/install.log'
